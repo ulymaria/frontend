@@ -1,0 +1,14 @@
+@media (min-width: 576px)
+{
+    .imagem{
+        background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLxbpSO95Tt0VqH27-CsXmrN6XuR1oZq4uwbWg7x90luexJZYE362NXvx4OkpLSF4nU2o&usqp=CAU);
+    }
+}
+
+
+
+
+.img{
+    background-image: url(../6450051-gradiente-vermelho-azul-roxo-abstrato-fundo-voce-pode-usar-este-fundo-para-seu-conteudo-como-videogame-qoute-promotion-template-presentation-education-s.jpg);
+    background-size: cover;
+}

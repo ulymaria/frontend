@@ -1,0 +1,20 @@
+:root{
+    --primary: #912020;
+}
+
+.text-primary{
+    color: var(--primary)!important;
+}
+
+.bg-success{
+    color: var(--secondary) !important;
+}
+
+.img {
+    background-image: url(https://www.queroviajarmais.com/wp-content/uploads/2020/08/lago-louise.jpg);
+    background-size: cover;
+}
+
+.img {
+   background-image: url(https://www.queroviajarmais.com/wp-content/uploads/2020/08/lago-louise.jpg) https://www.queroviajarmais.com/wp-content/uploads/2020/08/lago-louise.jpg
+}
